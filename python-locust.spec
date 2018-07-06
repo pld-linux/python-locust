@@ -8,12 +8,12 @@
 Summary:	Easy-to-use, distributed, user load www servers testing tool
 Summary(pl.UTF-8):	Łatwe do użycia, rozproszone narzędzie do testowania obciążeniem serwerów www
 Name:		python-%{module}
-Version:	0.7.2
-Release:	3
+Version:	0.8
+Release:	1
 License:	MIT
 Group:		Libraries/Python
 Source0:	https://github.com/locustio/locust/archive/v%{version}.tar.gz
-# Source0-md5:	88c13603cd5245c8ffcc8d7bd71b1ca0
+# Source0-md5:	7b821f11ebdd0e1bf70396d4571e887b
 URL:		http://locust.io/
 BuildRequires:	rpm-pythonprov
 # if py_postclean is used
