@@ -27,7 +27,6 @@ BuildRequires:	python-gevent >= 1.0.1
 BuildRequires:	python-msgpack
 %endif
 %if %{with python3}
-BuildRequires:	python3-distribute
 BuildRequires:	python3-gevent >= 1.0.1
 BuildRequires:	python3-modules
 BuildRequires:	python3-msgpack
